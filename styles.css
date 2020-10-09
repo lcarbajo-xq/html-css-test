@@ -38,7 +38,11 @@ div {
 .recien-hecho {
   background-image: url(images/Fondo1.jpg);
   background-size: cover;
+<<<<<<< HEAD
   background-position-x: center;
+=======
+  background-position: center top;
+>>>>>>> 51eda8a... Update 08_10
   min-height: 800px;
 }
 
@@ -54,6 +58,7 @@ div {
   width: 100px;
 }
 
+<<<<<<< HEAD
 .menu {
   width: 60px;
   height: 60px;
@@ -61,6 +66,36 @@ div {
   position: absolute;
   top: 60px;
   right: 30px;
+=======
+.separador {
+  width: 30%;
+  background-color: blanchedalmond;
+  height: 2px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 50px auto;
+}
+
+.menu {
+  width: 40px;
+  height: 40px;
+  background-color: #d03b40;
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  border-radius: 5px;
+  padding-top: 4px;
+}
+
+.line {
+  background-color: antiquewhite;
+  margin-top: 5px;
+  width: 30px;
+  height: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+>>>>>>> 51eda8a... Update 08_10
 }
 
 .menu-button {
