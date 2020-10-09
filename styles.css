@@ -38,11 +38,7 @@ div {
 .recien-hecho {
   background-image: url(images/Fondo1.jpg);
   background-size: cover;
-<<<<<<< HEAD
-  background-position-x: center;
-=======
   background-position: center top;
->>>>>>> 51eda8a... Update 08_10
   min-height: 800px;
 }
 
@@ -58,15 +54,6 @@ div {
   width: 100px;
 }
 
-<<<<<<< HEAD
-.menu {
-  width: 60px;
-  height: 60px;
-  background-color: #d03b40;
-  position: absolute;
-  top: 60px;
-  right: 30px;
-=======
 .separador {
   width: 30%;
   background-color: blanchedalmond;
@@ -95,7 +82,6 @@ div {
   margin-left: auto;
   margin-right: auto;
   border-radius: 20px;
->>>>>>> 51eda8a... Update 08_10
 }
 
 .menu-button {
